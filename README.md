@@ -1,6 +1,6 @@
 # How to Screenshot on Google Pixel
 
-[![how to screenshot on google pixel](redd.png)](https://github.com/tech-webie/how.to.screenshot.on.google.pixel)
+[![how to screenshot on google pixel](redd.png)](https://icncomputer.com/how-to-screenshot-on-google-pixel/)
 
 
 Taking a screenshot is one of the most basic things you can do with the best Android phones. The Pixel 6 is no different, as there are quite a few different ways to take a screenshot on the Google Pixel. Along with using the traditional hardware button combinations, Google has implemented other methods for you to take a screenshot.
